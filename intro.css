@@ -1809,7 +1809,7 @@ body{
     font-size: 18px;
     font-family: 'Dancing Script', cursive;
     padding: 20px 0px 0px 20px;
-    margin-top: -50px;
+    margin-top: -80px;
 }
 .slider3:hover .content h3{
     animation: fixedContent 2s 2s forwards;
